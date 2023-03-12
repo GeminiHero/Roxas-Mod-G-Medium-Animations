@@ -6,3 +6,5 @@ Designed for use with the OpenKH Mod Loader.
 ---
 
 All of the flavor, none of the gameplay impact! This removes all changed attack animations from Roxas' new kit, leaving the idle stance, guard, and movement animations alone. Causes some animation snapping.
+
+Use this for most tournament legality! Make sure to place it above the "Roxas Mod 3.0", but below any randomizer seeds or mods.
