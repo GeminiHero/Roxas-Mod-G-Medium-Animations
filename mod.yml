@@ -1,0 +1,222 @@
+title: Roxas Mod G. Medium Animations
+originalAuthor: Zurph, GeminiHero
+description: TOURNAMENT LEGAL! All of the flavor, none of the gameplay impact! This removes all changed attack animations from Roxas' new kit, leaving the idle stance, guard, and movement animations alone. Causes some animation snapping. (Place above 'Roxas Mod 3.0', but below randomizer mods!)
+specifications: 0
+dependencies: 
+assets:
+- name: obj\F_EX030.mset
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: obj\F_EX030.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\F_EX030_TT.mset
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  multi: 
+  source:
+  - name: obj\F_EX030_TT.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX100.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\P_EX100.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX100_AL_CARPET.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\P_EX100_AL_CARPET.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\P_EX100_BTLF.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\P_EX100_BTLF.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\W_EX010.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_AL_CARPET.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\W_EX010_AL_CARPET.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_BTLF_L.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\W_EX010_BTLF_L.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
+- name: obj\W_EX010_BTLF_R.mset
+  method: copy
+  platform: pc
+  package: kh2_sicth
+  multi: 
+  source:
+  - name: obj\W_EX010_BTLF_R.mset
+    method: 
+    platform: 
+    package: 
+    multi: 
+    source: 
+    required: false
+    type: 
+    motionsetType: Default
+    language: 
+    isSwizzled: false
+    index: 0
+  required: false
+  type: 
+  motionsetType: Default
+  language: 
+  isSwizzled: false
+  index: 0
